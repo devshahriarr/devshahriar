@@ -1,0 +1,105 @@
+.modal-content {
+    border-radius: 10px;
+    padding: 20px;
+    background: #e6e6fa; /* Light purple */
+    color: #333;
+    font-family: Arial, sans-serif;
+  }
+  
+  .modal-header {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+  }
+  
+  .modal-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .modal-body {
+    padding-top: 20px;
+  }
+  
+  .st-flex-center {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .modal-subtitle {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 15px;
+  }
+  
+  .project-details {
+    background: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .project-details p {
+    margin: 5px 0;
+    font-size: 0.9rem;
+  }
+  
+  .project-details a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .project-details a:hover {
+    text-decoration: underline;
+  }
+
+
+  .sh-projects-single {
+    background: #1e2a44; /* Dark blue background */
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+    padding: 10px;
+  }
+  
+  .sh-projects-single:hover {
+    transform: translateY(-5px);
+  }
+  
+  .sh-projects-img img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .sh-projects-item-hover {
+    padding: 15px;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+  }
+  
+  .sh-projects-item-hover h5 {
+    font-size: 1.2rem;
+    margin: 10px 0;
+  }
+  
+  .sh-projects-item-hover p {
+    font-size: 0.9rem;
+    color: #ddd;
+  }
+
+  .preview-button {
+    background-color: #007bff; /* Blue button */
+    color: #fff;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 0.8rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .preview-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
