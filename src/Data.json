@@ -1,0 +1,938 @@
+{
+  "heroData": {
+    "homeOneHero": {
+      "bgImgLink": "/images/background/hero-bg.jpg",
+      "imgLink": "/images/section/Jihad.png",
+      "title": "Shahriar <br /> Hossain",
+      "subTitle": "Hello, I’m",
+      "designation": "Software Engineer"
+    },
+    "homeTwoHero": {
+      "imgAuthor": "/images/section/hero-img.jpg",
+      "bgImgLink": "/images/background/hero-bg.jpg",
+      "title": "Hi, I am <span>Jhon Doe</span>",
+      "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
+    },
+    "homeThreeHero": {
+      "imgAuthor": "/images/section/hero-img.jpg",
+      "bgImgLink": "/images/background/hero-bg-1.jpg",
+      "title": "Hi, I am <span>Jhon Doe</span>",
+      "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
+    },
+    "homeFourHero": {
+      "imgAuthor": "/images/section/hero-img.jpg",
+      "bgImgLink": "/images/background/hero-bg-2.jpg",
+      "title": "Hi, I am <span>Jhon Doe</span>",
+      "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
+    }
+  },
+  "aboutData": {
+    "imgLink": "/images/section/devshahriar.png",
+    "cvPdf": "/images/Resume.pdf",
+    "title": "Welcome to My Portfolios",
+    "subtitle": "Software Engineer",
+    "text": "Hi, I'm Md. Shahriar Hossain Jihad, a passionate Full Stack Developer, Database Designer, Project Manager, and System Architecht with over 3 years of experience building robust web applications and Software. As the Lead Programmer at Eclipse Intellitech Limited, I specialize in crafting scalable solutions using Laravel, React, and modern technologies. Explore my projects, technical expertise, and journey in delivering innovative software for businesses worldwide.",
+    "details": [
+      {
+        "title": "Name: ",
+        "info": "Md. Shahriar Hossain Jihad"
+      },
+      {
+        "title": "Phone",
+        "info": "+880 1306891479"
+      },
+      {
+        "title": "Email",
+        "info": "mdshahriardev@gmail.com"
+      },
+      {
+        "title": "From",
+        "info": "Dhaka, Bangladesh"
+      },
+      {
+        "title": "Language",
+        "info": "English, Hindi, Bengali"
+      },
+      {
+        "title": "Freelance",
+        "info": "Available"
+      },
+      {
+        "title": "Remote",
+        "info": "Available"
+      }
+    ]
+  },
+  "serviceData": {
+    "services": [
+      {
+        "imgLink": "streamline-ultimate:coding-apps-website-big-data-database-globality-velocity-bold",
+        "icon": "vscode-icons:file-type-c",
+        "title": "Web Development",
+        "text": "Build scalable Laravel and React websites with modern UI, secure APIs, and seamless user experiences.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "fa-solid:code",
+        "title": "POS & ERP",
+        "text": "Develop robust POS and ERP systems with inventory, accounting, reporting, and barcode generation features.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "fa-solid:database",
+        "title": "Database Design",
+        "text": "Create optimized schemas using DBdiagram and PlantUML for scalable, high-performance applications.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "fa-solid:rocket",
+        "title": "Performance Tuning",
+        "text": "Enhance application speed with Redis caching, Elasticsearch full-text search, and optimized cron jobs.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "fa-solid:shield-alt",
+        "title": "Cybersecurity",
+        "text": "Secure applications with SQL injection prevention, penetration testing, and robust API integrations.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "fa-solid:lightbulb",
+        "title": "IT Consultancy",
+        "text": "Provide expert guidance on software solutions, system design, and project strategy for business success.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "skillData": {
+    "title": "All the skills that I have in that field of work are mentioned.",
+    "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.",
+    "skills": [
+      {
+        "title": "Photoshop",
+        "progress": "95%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "title": "Motion Graphic",
+        "progress": "75%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "title": "Adobe XD",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "title": "UX Design",
+        "progress": "85%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "title": "HTML",
+        "progress": "80%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "title": "Digital Marketing",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "myskill": {
+    "title": "All the skills that I have in that field of work are mentioned.",
+    "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.",
+    "frameworksAndLibraries": [
+      { "name": "Laravel", "icon": "material-icon-theme:laravel" },
+      { "name": "React", "icon": "vscode-icons:file-type-reactjs" },
+      { "name": "Jquery", "icon": "devicon:jquery-wordmark" },
+      { "name": "Bootstrap", "icon": "skill-icons:bootstrap" },
+      { "name": "Tailwind", "icon": "devicon:tailwindcss" },
+      { "name": "Inertia.js", "icon": "devicon:inertiajs" },
+      { "name": "Json", "icon": "devicon:json" },
+      { "name": "Wordpress", "icon": "skill-icons:wordpress" },
+      { "name": "Shopify", "icon": "logos:shopify" },
+      { "name": "Restfull API", "icon": "hugeicons:api" }
+    ],
+    "languages": [
+      { "name": "C", "icon": "vscode-icons:file-type-c" },
+      { "name": "C++", "icon": "vscode-icons:file-type-cpp" },
+      { "name": "PHP", "icon": "vscode-icons:file-type-php" },
+      { "name": "JavaScript", "icon": "vscode-icons:file-type-js-official" },
+      { "name": "HTML", "icon": "vscode-icons:file-type-html" },
+      { "name": "CSS", "icon": "vscode-icons:file-type-css" },
+      { "name": "MySQL", "icon": "devicon:mysql" },
+      { "name": "Oracle", "icon": "devicon:oracle" }
+    ],
+    "toolsAndPlatforms": [
+      { "name": "Git", "icon": "vscode-icons:file-type-git" },
+      { "name": "Github", "icon": "mdi:github" },
+      { "name": "Postman", "icon": "skill-icons:postman" },
+      { "name": "Docker", "icon": "vscode-icons:file-type-docker" },
+      { "name": "Netlify", "icon": "skill-icons:netlify-dark" },
+      { "name": "Vercel", "icon": "catppuccin:vercel" },
+      { "name": "Vite", "icon": "logos:vitejs" },
+      { "name": "AWS", "icon": "logos:aws" },
+      { "name": "Jira", "icon": "devicon:jira" },
+      { "name": "Xampp", "icon": "logos:xampp" },
+      { "name": "VS Code", "icon": "vscode-icons:file-type-vscode" }
+    ],
+    "coreCompetencies": [
+      "Problem Solving",
+      "Team Collaboration",
+      "Project Planning",
+      "Database Design",
+      "ER Diagram",
+      "Database Optimization",
+      "System Architechture",
+      "Design Pattern",
+      "CI/CD Pipeline",
+      "Containarization",
+      "Testing",
+      "JWT",
+      "Debugging",
+      "Agile Development",
+      "System Analysis",
+      "Monitoring",
+      "Error Handling",
+      "Performance Tuning",
+      "Query Profiling",
+      "Code Optimization",
+      "","",""
+    ]
+  },
+  "portfolioData": {
+    "portfolioItems": [
+      {
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      }
+    ]
+  },
+  "blogData": {
+    "useFor": "blog",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "./images/blog/blog1.jpg",
+        "bgImgLink": "./images/blog/blog1.jpg",
+        "author": "Admin 4",
+        "date": "07-03-2023",
+        "title": "Building Scalable Web Applications: Best Practices for Developers",
+        "href": "/blog/blog-details/1",
+        "tags": ["tag1", "tag2", "tag3"],
+        "description":
+        {
+          "para1":"Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps.",
+          "para2": 
+          {
+            "title": "Collaboratively administrate empowered.",
+            "desc": "Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail.",
+            "img": "./images/blog/blog1.jpg"
+          },
+          "para3": 
+          {
+            "title": "Blog video post can also added.",
+            "desc": "Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration some even slightly believable. If you are going to use passage of Lorem Ipsum.",
+            "videoLink": "https://www.youtube.com/watch?v=Ib_L3vuUX5k&list=RDIb_L3vuUX5k&start_radio=1",
+            "quote": 
+            {
+              "text": "Integer accumsan arcu ligula, eget dictum augue egestas sed. Curabitur bibendum, lorem ac dapibus pellentesque, justo lectus bibendum enim.",
+              "quotedBy":"nelson mandela"
+            }
+          },
+          "para4": 
+          {
+            "title": "Phosfluorescently engage worldwide?",
+            "desc": "Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing. Holistically pontificate installed base portals after maintainable productsCapitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.",
+            "img": ["./images/blog/blog1.jpg", "./images/blog/blog2.jpg", "./images/blog/blog3.jpg" ]
+          }
+        }
+      },
+      {
+        "imgLink": "./images/blog/blog2.jpg",
+        "bgImgLink": "./images/blog/blog1.jpg",
+        "author": "Admin",
+        "date": "07-03-2023",
+        "title": "latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details/2",
+        "tags": ["tag1", "tag2", "tag3"],
+        "description":
+        {
+          "para1":"Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps.",
+          "para2": 
+          {
+            "title": "Collaboratively administrate empowered.",
+            "desc": "Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail.",
+            "img": "image path"
+          },
+          "para3": 
+          {
+            "title": "Blog video post can also added.",
+            "desc": "Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration some even slightly believable. If you are going to use passage of Lorem Ipsum.",
+            "videoLink": "./images/blog/blog2.jpg",
+            "quote": 
+            {
+              "text": "Integer accumsan arcu ligula, eget dictum augue egestas sed. Curabitur bibendum, lorem ac dapibus pellentesque, justo lectus bibendum enim.",
+              "quotedBy":"nelson mandela"
+            }
+          },
+          "para4": 
+          {
+            "title": "Phosfluorescently engage worldwide?",
+            "desc": "Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing. Holistically pontificate installed base portals after maintainable productsCapitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.",
+            "img": "image path"
+          }
+        }
+      },
+      {
+        "imgLink": "./images/blog/blog3.jpg",
+        "bgImgLink": "./images/blog/blog1.jpg",
+        "author": "Admin",
+        "date": "07-03-2023",
+        "title": "latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details/3",
+        "tags": ["tag1", "tag2", "tag3"],
+        "description":
+        {
+          "para1":"Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps.",
+          "para2": 
+          {
+            "title": "Collaboratively administrate empowered.",
+            "desc": "Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail.",
+            "img": "image path"
+          },
+          "para3": 
+          {
+            "title": "Blog video post can also added.",
+            "desc": "Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration some even slightly believable. If you are going to use passage of Lorem Ipsum.",
+            "videoLink": "./images/blog/blog2.jpg",
+            "quote": 
+            {
+              "text": "Integer accumsan arcu ligula, eget dictum augue egestas sed. Curabitur bibendum, lorem ac dapibus pellentesque, justo lectus bibendum enim.",
+              "quotedBy":"nelson mandela"
+            }
+          },
+          "para4": 
+          {
+            "title": "Phosfluorescently engage worldwide?",
+            "desc": "Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing. Holistically pontificate installed base portals after maintainable productsCapitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.",
+            "img": "image path"
+          }
+        }
+      },
+      {
+        "imgLink": "./images/blog/blog1.jpg",
+        "bgImgLink": "./images/blog/blog1.jpg",
+        "author": "Admin",
+        "date": "07-03-2023",
+        "title": "latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details/4",
+        "tags": ["tag1", "tag2", "tag3"],
+        "description":
+        {
+          "para1":"Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps.",
+          "para2": 
+          {
+            "title": "Collaboratively administrate empowered.",
+            "desc": "Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail.",
+            "img": "image path"
+          },
+          "para3": 
+          {
+            "title": "Blog video post can also added.",
+            "desc": "Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration some even slightly believable. If you are going to use passage of Lorem Ipsum.",
+            "videoLink": "./images/blog/blog2.jpg",
+            "quote": 
+            {
+              "text": "Integer accumsan arcu ligula, eget dictum augue egestas sed. Curabitur bibendum, lorem ac dapibus pellentesque, justo lectus bibendum enim.",
+              "quotedBy":"nelson mandela"
+            }
+          },
+          "para4": 
+          {
+            "title": "Phosfluorescently engage worldwide?",
+            "desc": "Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing. Holistically pontificate installed base portals after maintainable productsCapitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.",
+            "img": "image path"
+          }
+        }
+      },
+      {
+        "imgLink": "./images/blog/blog3.jpg",
+        "bgImgLink": "./images/blog/blog1.jpg",
+        "author": "Admin",
+        "date": "07-03-2023",
+        "title": "latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details/5",
+        "tags": ["tag1", "tag2", "tag3"],
+        "description":
+        {
+          "para1":"Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps.",
+          "para2": 
+          {
+            "title": "Collaboratively administrate empowered.",
+            "desc": "Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail.",
+            "img": "image path"
+          },
+          "para3": 
+          {
+            "title": "Blog video post can also added.",
+            "desc": "Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration some even slightly believable. If you are going to use passage of Lorem Ipsum.",
+            "videoLink": "./images/blog/blog2.jpg",
+            "quote": 
+            {
+              "text": "Integer accumsan arcu ligula, eget dictum augue egestas sed. Curabitur bibendum, lorem ac dapibus pellentesque, justo lectus bibendum enim.",
+              "quotedBy":"nelson mandela"
+            }
+          },
+          "para4": 
+          {
+            "title": "Phosfluorescently engage worldwide?",
+            "desc": "Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing. Holistically pontificate installed base portals after maintainable productsCapitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.",
+            "img": "image path"
+          }
+        }
+      },
+      {
+        "imgLink": "./images/blog/blog2.jpg",
+        "bgImgLink": "./images/blog/blog1.jpg",
+        "author": "Admin",
+        "date": "07-03-2023",
+        "title": "latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details/6",
+        "tags": ["tag1", "tag2", "tag3"],
+        "description":
+        {
+          "para1":"Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps.",
+          "para2": 
+          {
+            "title": "Collaboratively administrate empowered.",
+            "desc": "Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail.",
+            "img": "image path"
+          },
+          "para3": 
+          {
+            "title": "Blog video post can also added.",
+            "desc": "Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration some even slightly believable. If you are going to use passage of Lorem Ipsum.",
+            "videoLink": "./images/blog/blog2.jpg",
+            "quote": 
+            {
+              "text": "Integer accumsan arcu ligula, eget dictum augue egestas sed. Curabitur bibendum, lorem ac dapibus pellentesque, justo lectus bibendum enim.",
+              "quotedBy":"nelson mandela"
+            }
+          },
+          "para4": 
+          {
+            "title": "Phosfluorescently engage worldwide?",
+            "desc": "Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing. Holistically pontificate installed base portals after maintainable productsCapitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.",
+            "img": "image path"
+          }
+        }
+      }
+    ]
+  },
+  "projectsData": {
+    "useFor": "projects",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": true,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+    {
+      "imgLink": "./images/portfolio/eclipsepos.png",
+      "imgLinkLg": "./images/portfolio/eclipsepos_lg.png",
+      "title": "Eclipse POS",
+      "subTitle": "POS and ERP Solution",
+      "description": "Eclipse POS is a robust point-of-sale system with over 15 modules, including inventory management, sales tracking, accounting, and courier integration. Built with Laravel, React, and MySQL, it features barcode generation via TCPDF, full-text search with Elasticsearch, and Redis caching for performance. I led end-to-end development, designed scalable database schemas, and guided junior developers to ensure seamless deployment for multi-branch operations.",
+      "effect": "zoom",
+      "duration": 500,
+      "delay": 200,
+      "type": "Web Application",
+      "Technology": "Laravel, React, MySQL, Redis, Elasticsearch",
+      "platform": "Web Browser",
+      "country": "Bangladesh",
+      "liveUrl": "https://eclipseposapp.com"
+    },
+    {
+      "imgLink": "./images/portfolio/glowthentic.png",
+      "imgLinkLg": "./images/portfolio/glowthentic_lg.png",
+      "title": "Glowthentic",
+      "subTitle": "E-commerce Platform",
+      "description": "Glowthentic is a modern e-commerce platform powered by Laravel backend and React frontend with Inertia.js. It offers product variants and dynamic attribute system, secure API integrations with courier services, and user tracking for analytics. I architected the system, developed APIs using Laravel Sanctum, and optimized performance with caching. The platform ensures a seamless shopping experience with responsive Tailwind CSS designs and robust testing via Postman.",
+      "effect": "zoom",
+      "duration": 500,
+      "delay": 200,
+      "type": "Web Application",
+      "Technology": "React, Laravel, Tailwind CSS, JavaScript",
+      "platform": "Web Browser",
+      "country": "Bangladesh",
+      "liveUrl": "https://glowthentic.store"
+    },
+    {
+      "imgLink": "./images/portfolio/accountant.png",
+      "imgLinkLg": "./images/portfolio/accountant_lg.png",
+      "title": "Accountant",
+      "subTitle": "ERP for Accounting",
+      "description": "Accountant ERP is a comprehensive solution for business management, featuring modules for accounting, inventory, CRM, and asset tracking. Built with Laravel and MySQL, it includes print-ready reports via Laravel DomPDF and role-based access with Spatie Permission. I designed the database and business logic, implemented complex features, and mentored junior developers to deliver a scalable, secure system for efficient operations.",
+      "effect": "zoom",
+      "duration": 500,
+      "delay": 200,
+      "type": "Web Application",
+      "Technology": "Laravel, MySQL, JavaScript, Tailwind CSS",
+      "platform": "Web Browser",
+      "country": "Bangladesh",
+      "liveUrl": "https://accountant.eclipseintellitech.com/login"
+    },
+    {
+      "imgLink": "./images/portfolio/eduvoyage.png",
+      "imgLinkLg": "./images/portfolio/eduvoyage_lg.png",
+      "title": "Eduvoyage",
+      "subTitle": "Education Consultancy Website",
+      "description": "Eduvoyage is a dynamic website for an education consultancy, featuring service listings, admission forms, and client management tools. Developed with Laravel, MySQL, and Tailwind CSS, it ensures responsive design and secure data handling. I led requirement analysis, database design, and development, integrating user-friendly interfaces and SEO optimization to enhance visibility and client engagement for educational services.",
+      "effect": "zoom",
+      "duration": 500,
+      "delay": 200,
+      "type": "Web Application",
+      "Technology": "Laravel, JavaScript, Tailwind CSS, MySQL",
+      "platform": "Web Browser",
+      "country": "Bangladesh",
+      "liveUrl": "https://eduvoyageeducationconsultancy.com"
+    },
+    {
+      "imgLink": "./images/portfolio/ecommerce.png",
+      "imgLinkLg": "./images/portfolio/ecommerce_lg.png",
+      "title": "Sobrokom",
+      "subTitle": "E-commerce Platform",
+      "description": "Sobrokom is a Laravel-based e-commerce platform with modules for product management, order tracking, and reporting. It leverages MySQL for data storage, Tailwind CSS for responsive design, and cron jobs for automation. I designed the backend architecture, optimized performance with caching, and integrated user analytics to enhance the shopping experience, ensuring scalability and reliability for high-traffic online stores.",
+      "effect": "zoom",
+      "duration": 500,
+      "delay": 200,
+      "type": "Web Application",
+      "Technology": "Laravel, MySQL, JavaScript, Tailwind CSS",
+      "platform": "Web Browser",
+      "country": "Bangladesh",
+      "liveUrl": "https://sobrokom.store"
+    },
+    {
+      "imgLink": "./images/portfolio/clinic.png",
+      "imgLinkLg": "./images/portfolio/clinic_lg.png",
+      "title": "Other Projects",
+      "subTitle": "Miscellaneous Solutions",
+      "description": "Developed various web solutions like Zofer ERP and Wonderxfans, focusing on custom PHP, AJAX, and Shopify integrations. These projects include task management tools, e-commerce customizations, and performance optimizations. I contributed to backend logic, database design, and theme customization, delivering tailored solutions to meet diverse client needs while ensuring scalability and user-friendly interfaces.",
+      "effect": "zoom",
+      "duration": 500,
+      "delay": 200,
+      "type": "Web Application",
+      "Technology": "PHP, JavaScript, Shopify, AJAX",
+      "platform": "Web Browser",
+      "country": "Bangladesh",
+      "liveUrl": "https://devshahriar.com"
+    }
+  ]
+    
+
+  },
+
+  "reviewData": {
+    "useFor": "review",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "./images/client/shah_alom.png",
+        "title": "Shamsul Alom",
+        "designation": "Founder & CEO",
+        "text": "Shahriah's expertise in Laravel and React delivered a seamless e-commerce platform, exceeding our expectations."
+      },
+      {
+        "imgLink": "./images/client/shahin.jpg",
+        "title": "Shaukatul Islam Shahin",
+        "designation": "Head Of Data Science",
+        "text": "His leadership on Eclipse POS ensured robust database design and real-time performance for his clients."
+      },
+      {
+        "imgLink": "./images/client/client3.png",
+        "title": "Joseph Alves",
+        "designation": "Managing Director",
+        "text": "Shahriah's IT consultancy transformed our workflow with scalable solutions and exceptional project management."
+      },
+      {
+        "imgLink": "./images/client/client1.png",
+        "title": "Estiaq Ahmed",
+        "designation": "Owner",
+        "text": "The Accountant ERP developed by Shahriah streamlined our operations with intuitive features and security."
+      }
+    ]
+  },
+  "resumeData": {
+    "experienceTitle": "Experience",
+    "experience": [
+      {
+        "title": "Lead Programmer & Project Manager",
+        "duration": "Jan 2024 - Present",
+        "subTitle": "Eclipse Intellitech Limited",
+        "text": "Led development of Eclipse POS, Accountant ERP, Glowthentic and many other various projects using Laravel, React, Mysql and Other Modern Technologies. Perform System analysis, Monitoring, Performance Tuning, Query Profiling, Load Testing,  Guiding junior developers and play the role of project manager also. Have experience with server setup, configuration and deployment."
+      },
+      {
+        "title": "Front-End Developer",
+        "duration": "Jan 2023 - December 2023",
+        "subTitle": "Eclipse Intellitech Limited",
+        "text": "Developed responsive UIs for ERP Software and other websites. Integrating frontend with backend systems and queries using raw PHP and Mysql. Have experiece with Wordpress and Shopify"
+      },
+      {
+        "title": "Web Developer",
+        "duration": "August 2022 - December 2022",
+        "subTitle": "E-learning & Earning LTD",
+        "text": "Built dynamic web applications using Html, CSS, PHP, MySQL and Bootstrap focusing on performance and code quality."
+      }
+    ],
+    "educationTitle": "Education",
+    "education": [
+      {
+        "title": "B.Sc. in Computer Science and Engineering (CSE)",
+        "duration": "2023 - Ongoing",
+        "subTitle": "Northern University Bangladesh",
+        "text": "Pursuing advanced studies in Algorithms, Software Engineering, System architecture, Database, cyber security and Artificial Intelligence (AI) to enhance technical expertise."
+      },
+      {
+        "title": "Diploma in Computer Engineering",
+        "duration": "2017 - 2022",
+        "subTitle": "Bogura Polytechnic Institute",
+        "text": "Gained foundational skills in programming, database management, and web development with PHP and MySQL."
+      }
+    ]
+  },
+
+  "contactData": {
+    "formTitle": "Just say Hello",
+    "title": "Contact Info",
+    "subTitle": "Visit my social profile and get connected",
+    "text": "Ready to collaborate on your next project? Reach out to discuss how I can help bring your ideas to life with cutting-edge technology and strategic leadership."
+  },
+  "socialData": [
+    {
+      "icon": "github",
+      "title": "Github",
+      "link": "https://github.com/devshahriarr"
+    },
+    {
+      "icon": "linkedin",
+      "title": "Linkedin",
+      "link": "https://www.linkedin.com/in/devshahriarr/"
+    },
+    {
+      "icon": "x-twitter",
+      "title": "X Handle",
+      "link": "https://www.linkedin.com/in/devshahriarr/"
+    },
+    {
+      "icon": "facebook-f",
+      "title": "Facebook",
+      "link": "https://www.facebook.com/devshahriarr/"
+    }
+  ],
+  "socialData2": [
+    {
+      "icon": "facebook-f",
+      "link": "/facebook"
+    },
+    {
+      "icon": "twitter",
+      "link": "/twitter"
+    },
+    {
+      "icon": "github",
+      "link": "/github"
+    }
+  ]
+}

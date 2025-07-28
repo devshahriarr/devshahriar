@@ -1,0 +1,49 @@
+.st-portfolio-single {
+    background: #1e2a44; /* Dark blue background */
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+    padding: 10px;
+  }
+  
+  .st-portfolio-single:hover {
+    transform: translateY(-5px);
+  }
+  
+  .st-portfolio-img img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .st-portfolio-item-hover {
+    padding: 15px;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+  }
+  
+  .st-portfolio-item-hover h5 {
+    font-size: 1.2rem;
+    margin: 10px 0;
+  }
+  
+  .st-portfolio-item-hover p {
+    font-size: 0.9rem;
+    color: #ddd;
+  }
+
+  .preview-button {
+    background-color: #007bff; /* Blue button */
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 0.8rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .preview-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
