@@ -29,9 +29,9 @@
   "aboutData": {
     "imgLink": "/images/section/devshahriar.png",
     "cvPdf": "/images/Resume.pdf",
-    "title": "Welcome to My Portfolios",
+    "title": "Welcome to My Portfolio",
     "subtitle": "Software Engineer",
-    "text": "Hi, I'm Md. Shahriar Hossain Jihad, a passionate Full Stack Developer, Database Designer, Project Manager, and System Architecht with over 3 years of experience building robust web applications and Software. As the Lead Programmer at Eclipse Intellitech Limited, I specialize in crafting scalable solutions using Laravel, React, and modern technologies. Explore my projects, technical expertise, and journey in delivering innovative software for businesses worldwide.",
+    "text": "Security-focused Software Engineer with 3.5+ years of professional experience in software engineering, backend systems, SaaS architecture, Linux production environments, and technical leadership, transitioning into a dedicated Cybersecurity career. Hands-on experience in web/API security testing, network traffic analysis, Linux server security investigation, malware hunting, vulnerability assessment, and secure software engineering using Wireshark, Nmap, Burp Suite, OWASP ZAP, SQLMap and Linux security tools. Currently working on an AI-powered malware detection and security agent using the EMBER dataset, Python, Scikit-learn, XGBoost, LightGBM and FastAPI. Strong understanding of how real-world web applications, APIs, databases, and Linux infrastructure are designed, deployed and secured. Managed 100+ software projects, coordinated 20+ concurrent projects, led teams of up to 35 members, and contributed to approximately $80K+ in revenue within 9 months.",
     "details": [
       {
         "title": "Name: ",
@@ -43,7 +43,7 @@
       },
       {
         "title": "Email",
-        "info": "mdshahriardev@gmail.com"
+        "info": "devshahriarr@gmail.com"
       },
       {
         "title": "From",
@@ -858,8 +858,20 @@
     "experienceTitle": "Experience",
     "experience": [
       {
+        "title": "Assistant Manager Operation",
+        "duration": "Jul 2026 - Present",
+        "subTitle": "Betopia Group",
+        "text": "Leading a multidisciplinary technical team, overseeing concurrent software projects, coordinating cross-functional resources, managing requirements and delivery, and supporting technical planning, operations, client communication, and production troubleshooting."
+      },
+      {
+        "title": "Sr. Full Stack Developer & Team Lead",
+        "duration": "October 2025 - June 2026",
+        "subTitle": "Betopia Group",
+        "text": "Led full-stack development and technical teams, coordinating project architecture, backend/frontend development, database design, testing, deployment, and delivery while working closely with international clients on software requirements."
+      },
+      {
         "title": "Lead Programmer & Project Manager",
-        "duration": "Jan 2024 - Present",
+        "duration": "Jan 2024 - September 2025",
         "subTitle": "Eclipse Intellitech Limited",
         "text": "Led development of Eclipse POS, Accountant ERP, Glowthentic and many other various projects using Laravel, React, Mysql and Other Modern Technologies. Perform System analysis, Monitoring, Performance Tuning, Query Profiling, Load Testing,  Guiding junior developers and play the role of project manager also. Have experience with server setup, configuration and deployment."
       },
@@ -868,12 +880,6 @@
         "duration": "Jan 2023 - December 2023",
         "subTitle": "Eclipse Intellitech Limited",
         "text": "Developed responsive UIs for ERP Software and other websites. Integrating frontend with backend systems and queries using raw PHP and Mysql. Have experiece with Wordpress and Shopify"
-      },
-      {
-        "title": "Web Developer",
-        "duration": "August 2022 - December 2022",
-        "subTitle": "E-learning & Earning LTD",
-        "text": "Built dynamic web applications using Html, CSS, PHP, MySQL and Bootstrap focusing on performance and code quality."
       }
     ],
     "educationTitle": "Education",
