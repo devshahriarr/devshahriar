@@ -28,7 +28,7 @@
   },
   "aboutData": {
     "imgLink": "/images/section/devshahriar.png",
-    "cvPdf": "/images/Resume.pdf",
+    "cvPdf": "/images/Shahriar_Jihad_CV.pdf",
     "title": "Welcome to My Portfolio",
     "subtitle": "Software Engineer",
     "text": "Security-focused Software Engineer with 3.5+ years of professional experience in software engineering, backend systems, SaaS architecture, Linux production environments, and technical leadership, transitioning into a dedicated Cybersecurity career. Hands-on experience in web/API security testing, network traffic analysis, Linux server security investigation, malware hunting, vulnerability assessment, and secure software engineering using Wireshark, Nmap, Burp Suite, OWASP ZAP, SQLMap and Linux security tools. Currently working on an AI-powered malware detection and security agent using the EMBER dataset, Python, Scikit-learn, XGBoost, LightGBM and FastAPI. Strong understanding of how real-world web applications, APIs, databases, and Linux infrastructure are designed, deployed and secured. Managed 100+ software projects, coordinated 20+ concurrent projects, led teams of up to 35 members, and contributed to approximately $80K+ in revenue within 9 months.",
